@@ -1,0 +1,21 @@
+1. What do you mean by cells in an excel sheet?
+ANS) A cell is a rectangular area formed by the intersection of a column and a row in an excel sheet.
+
+2. How can you restrict someone from copying a cell from your worksheet?
+ANS) We can protect our excel sheet from copy-paste by making it read-only.
+
+3. How to move or copy the worksheet into another workbook?
+ANS) On the Edit menu, click Sheet > Move or Copy Sheet.     
+     Select the Create a copy checkbox.
+     Under Before sheet, select where you want to place the copy.
+     Select OK.
+
+4. Which key is used as a shortcut for opening a new window document?
+ANS) Ctrl+N keyword is used as a shortcut for opening a new window document.
+
+5. What are the things that we can notice after opening the Excel interface?
+ANS) following are the things that we can notice after opening the Excel         interface,workbook,title bar, menu bar,toolbar, column headings, row headings, namebox, formula bar, cell, navigation buttons and sheet tabs.
+     
+
+6. When to use a relative cell reference in excel?
+ANS) Relative references are especially convenient whenever you need to repeat the same calculation across multiple rows or columns.
