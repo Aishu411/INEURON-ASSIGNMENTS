@@ -1,0 +1,25 @@
+1. What does the dollar($) sign do?
+Ans) The dollar sign fixes the reference to a given cell, so that it remains unchanged no matter where the formula moves. In other words, using $ in cell references allows you to copy the formula in Excel without changing references.
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans) When you are typing your formula, after you type a cell reference - press the F4 key. Excel automatically makes the cell reference absolute! By continuing to press F4, Excel will cycle through all of the absolute reference possibilities.
+
+3. Explain the order of operations in excel?
+Ans) In general, Excel's order of operation follows the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction)
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax 
+for any of two?
+Ans) AutoSum;
+IF function;  =IF(A2>B2,"Over Budget","OK")
+LOOKUP function;
+VLOOKUP function; =VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
+HLOOKUP function;
+MATCH function;
+CHOOSE function;
+DATE function;
+
+5. When would you use the subtotal function?
+Ans) SUBTOTALS help us to get the totals of several columns of data broken down into various categories. For example, let's consider garment products of different sizes manufactured. The SUBTOTAL function will help you to get a count of different sizes in your warehouse.
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+Ans)  =VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
